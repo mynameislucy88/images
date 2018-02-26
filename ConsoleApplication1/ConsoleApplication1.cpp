@@ -3,10 +3,14 @@
 
 #include "stdafx.h"
 
+#include <iostream>
+
+using namespace std;
 
 int main()
 {
-	printf("hello world!");
-    return 0;
+	printf("hello world!\r\n");
+	cout << 5 * 6 << endl;
+	return 0;
 }
 
