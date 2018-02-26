@@ -9,7 +9,6 @@ using namespace std;
 
 int main()
 {
-	printf("hello world!\r\n");
 	cout << 5 * 6 << endl;
 	return 0;
 }
