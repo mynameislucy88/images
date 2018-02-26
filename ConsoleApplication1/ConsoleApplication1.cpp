@@ -12,6 +12,7 @@ int main()
 {
 	printf("hello world! master branch\r\n");
 	cout << 5 * 6 << endl;
+	cout << 8 * 7 << endl;
 	system("pause");
 	return 0;
 }
