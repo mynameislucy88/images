@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-	printf("hello world! master branch\r\n");
+	printf("hello world! master branch!\r\n");
 	cout << 8 * 7 << endl;
 	system("pause");
 	return 0;
